@@ -10,6 +10,7 @@ Neos:
               componentOptions:
                 ignoreSegments:
                   - neos
+                  - 'neos!'
                   - setup
                   - _Resources
                   - media
